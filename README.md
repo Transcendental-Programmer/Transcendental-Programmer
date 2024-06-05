@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priyansh Saxena</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+- 🔭 I’m currently student at **IIITM Gwalior**
+
 - 🌱 I’m currently learning **nginx, aws**
+
+- 👯 I’m looking to collaborate on **Data Science Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Transcendental-Programmer](https://github.com/Transcendental-Programmer)
 
