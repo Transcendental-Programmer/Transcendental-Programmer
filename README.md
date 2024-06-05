@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyansh Saxena</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Scientist from India. Student at IIITM Gwalior.</h3>
 
 - 🔭 I’m currently student at **IIITM Gwalior**
 
