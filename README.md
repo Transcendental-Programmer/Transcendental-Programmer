@@ -1,43 +1,122 @@
-<h1 align="center">Hi 👋, I'm Priyansh Saxena</h1>
-<h3 align="center">A passionate Machine Learning Data Scientist. Currently student at IIITM Gwalior</h3>
+# <div align="center">👨‍💻 Priyansh Saxena</div>
 
-- 🔭 I’m currently student at **IIITM Gwalior**
-- 🌱 I’m currently learning **nginx, aws**
-- 👯 I’m looking to collaborate on **Data Science Projects**
-- 👨‍💻 All of my projects are available at [https://github.com/Transcendental-Programmer](https://github.com/Transcendental-Programmer)
-- 💬 Ask me about **Data Science, Machine Learning**
-- 📫 How to reach me **priyena.career@gmail.com**
+<div align="center">
+  <a href="https://github.com/Transcendental-Programmer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Machine+Learning+Data+Scientist;Student+at+IIITM+Gwalior;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
+## 🧠 About Me
+
+- 🎓 Currently studying at **IIITM Gwalior**
+- 🌱 Learning **nginx, aws** and cloud infrastructure
+- 👯 Looking for collaboration on **Data Science Projects**
+- 🚀 All my projects are available at [my GitHub](https://github.com/Transcendental-Programmer)
+- 💬 Ask me about **Data Science, Machine Learning, LLMs**
+- 📫 Reach me at: **priyena.career@gmail.com**
+
+## 🌐 Connect with me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/priyansh-saxena-25b82625b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Priyansh Saxena" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/archcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arch_coder" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/arch_coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arch_coder" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/user8322v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arch_coder" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/priyansh-saxena-25b82625b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/archcoder" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://www.codechef.com/users/arch_coder" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://leetcode.com/u/user8322v/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
-<table>
-<tr><th>Machine Learning </th><th>Portfolio</th></tr>
-<tr><td>
+## 🔥 Projects & Skills
 
-|Title | Technologies|
-|--|--|
-| [LLM Integrated Excel Plotter App](https://github.com/Transcendental-Programmer/LLM-Integrated-Excel-Plotter-App) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [Healio LLM Integrated chatbot](https://github.com/Transcendental-Programmer/Healio-LLM-Integrated-chatbot) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-| [Recipe Adviser App](https://github.com/Transcendental-Programmer/Recipe-Adviser-App) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy)|
-| [face recognition attendance app](https://github.com/Transcendental-Programmer/face-recognition-attendance-app) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
-| [MLops Project](https://github.com/Transcendental-Programmer/Anomaly-detection-in-IoT-streams) | ![PySpark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark) <br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)|
-| [Text Summarizer](https://github.com/Transcendental-Programmer/SummarizeMe) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [Stock Price Prediction App](https://github.com/Transcendental-Programmer/Stock-Sentinal) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-| [Neural Network from Scratch](https://github.com/Transcendental-Programmer/Neural_Network_from_scratch) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-| [Customer Service Analysis](https://github.com/Transcendental-Programmer/nyc_311_customer_service_analysis) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-| [basic chatbot](https://github.com/Transcendental-Programmer/basic-flipkart-customer-support-chatbot) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-</td><td>
+<details open>
+  <summary><b>🤖 Machine Learning Projects</b></summary>
+  <br>
+  
+  [![LLM Excel Plotter](https://github-readme-stats.vercel.app/api/pin/?username=Transcendental-Programmer&repo=LLM-Integrated-Excel-Plotter-App&theme=tokyonight)](https://github.com/Transcendental-Programmer/LLM-Integrated-Excel-Plotter-App)
+  [![Healio Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Transcendental-Programmer&repo=Healio-LLM-Integrated-chatbot&theme=tokyonight)](https://github.com/Transcendental-Programmer/Healio-LLM-Integrated-chatbot)
+  [![Recipe Adviser](https://github-readme-stats.vercel.app/api/pin/?username=Transcendental-Programmer&repo=Recipe-Adviser-App&theme=tokyonight)](https://github.com/Transcendental-Programmer/Recipe-Adviser-App)
+  [![Face Recognition](https://github-readme-stats.vercel.app/api/pin/?username=Transcendental-Programmer&repo=face-recognition-attendance-app&theme=tokyonight)](https://github.com/Transcendental-Programmer/face-recognition-attendance-app)
+</details>
 
+<details>
+  <summary><b>🛠️ Technologies and Tools</b></summary>
+  <br>
+  
+  ### Languages
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  
+  ### ML/DL Frameworks
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  
+  ### Web Frameworks & Databases
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+  ### DevOps & Cloud
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  
+  ### Other Tools
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=transcendental-programmer&show_icons=true&locale=en&layout=compact" alt="transcendental-programmer" /></p>
+<p align="center">
+  <a href="https://github.com/Transcendental-Programmer">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Transcendental-Programmer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Transcendental-Programmer&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Transcendental-Programmer&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<p align="center">
+  <a href="https://github.com/Transcendental-Programmer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Transcendental-Programmer&theme=tokyonight" alt="Transcendental-Programmer's streak"/>
+  </a>
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Transcendental-Programmer">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Transcendental-Programmer&theme=react-dark" alt="Contribution Graph" />
+  </a>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/Transcendental-Programmer">
+    <img src="https://github-profile-trophy.vercel.app/?username=Transcendental-Programmer&theme=nord&column=7&margin-w=15" alt="trophy" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Transcendental-Programmer&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</div>
+
+<!-- GitHub Snake animation -->
+<div align="center">
+  <img alt="snake eating contribution graph" src="https://github.com/Transcendental-Programmer/Transcendental-Programmer/blob/output/github-contribution-grid-snake.svg" />
+</div>
