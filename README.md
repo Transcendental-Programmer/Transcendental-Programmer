@@ -1,3 +1,4 @@
+
 <div align="center">
   
 # 👨‍💻 Priyansh Saxena
@@ -181,18 +182,20 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Transcendental-Programmer&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&custom_title=GitHub%20Activity" height="180em" alt="Priyansh's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Transcendental-Programmer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" alt="Most Used Languages"/>
+<div align="center" style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Transcendental-Programmer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max-width: 45%;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Transcendental-Programmer&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" style="max-width: 45%;" />
 </div>
 
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Transcendental-Programmer&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
-
+-->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Transcendental-Programmer&theme=nord&column=7&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Transcendental-Programmer&theme=tokyonight&column=7&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
 </div>
+
 
 ## 📚 Project Portfolio
 
