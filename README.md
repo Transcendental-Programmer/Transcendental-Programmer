@@ -42,6 +42,23 @@ me.say_hi()
 - 🚀 Passionate about creating ML-powered solutions that solve meaningful problems
 - 📚 Always learning and adapting to new technologies and methodologies
 
+## 📊 GitHub Stats
+
+<div align="center" style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Transcendental-Programmer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max-width: 45%;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Transcendental-Programmer&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" style="max-width: 45%;" />
+</div>
+
+<!--
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Transcendental-Programmer&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+-->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Transcendental-Programmer&theme=tokyonight&column=7&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
+</div>
+
+
 ## 🏆 Featured Projects
 
 <table>
@@ -179,22 +196,6 @@ me.say_hi()
     </td>
   </tr>
 </table>
-
-## 📊 GitHub Stats
-
-<div align="center" style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Transcendental-Programmer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max-width: 45%;" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Transcendental-Programmer&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" style="max-width: 45%;" />
-</div>
-
-<!--
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Transcendental-Programmer&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
--->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Transcendental-Programmer&theme=tokyonight&column=7&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
-</div>
 
 
 ## 📚 Project Portfolio
