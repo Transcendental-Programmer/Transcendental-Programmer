@@ -25,17 +25,20 @@ class PriyanshSaxena:
         self.currently_learning = ["Advanced MLOps", "AWS", "NGINX"]
         self.looking_for = "Collaborative Data Science Projects"
         self.contact = "priyena.career@gmail.com"
+        self.open_source_contributions = ["krkn-chaos (by Red Hat)"]
     
     def say_hi(self):
         print("Thanks for visiting my profile! Let's connect and build something amazing together!")
 
 me = PriyanshSaxena()
 me.say_hi()
+
 ```
 
 ## 🧠 About Me
 
 - 🎓 Currently pursuing B.Tech/M.Tech in Data Science at **IIITM Gwalior**
+- 🔭 I’m currently working on [krkn-chaos](https://github.com/krkn-chaos)
 - 🌱 Expanding my knowledge in **MLOps, Cloud Architecture, and Infrastructure**
 - 👨‍💻 Building intelligent applications with **Machine Learning & LLMs**
 - 🔍 Researching applications of **Large Language Models in real-world scenarios**
