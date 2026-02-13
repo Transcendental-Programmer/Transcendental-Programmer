@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# 👨‍💻 Priyansh Saxena
+#  Priyansh Saxena
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Machine+Learning+Data+Scientist;Student+at+IIITM+Gwalior;Building+with+AI+and+Cloud)](https://github.com/Transcendental-Programmer)
 
@@ -14,7 +14,7 @@
 
 </div>
 
-## 🚀 Quick Overview
+##  Quick Overview
 
 ```python
 class PriyanshSaxena:
@@ -36,7 +36,7 @@ me.say_hi()
 ```
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center" style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Transcendental-Programmer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max-width: 45%;" />
@@ -48,12 +48,12 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Transcendental-Programmer&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Transcendental-Programmer&theme=tokyonight&column=7&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
-</div>
+</div> -->
 
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <table>
   <tr>
@@ -140,7 +140,7 @@ me.say_hi()
       <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask"/>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td><a href="https://github.com/Transcendental-Programmer/Healio-LLM-Integrated-chatbot">Healio Medical Assistant</a></td>
     <td>AI-powered healthcare chatbot that provides medical information and preliminary diagnoses using advanced language models</td>
     <td>
@@ -148,8 +148,8 @@ me.say_hi()
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV"/>
       <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
     </td>
-  </tr>
-  <tr>
+  </tr> -->
+  <!-- <tr>
     <td><a href="https://github.com/Transcendental-Programmer/Recipe-Adviser-App">Recipe Adviser App</a></td>
     <td>Personalized recipe recommendation system that suggests meals based on available ingredients, dietary restrictions, and user preferences</td>
     <td>
@@ -157,8 +157,8 @@ me.say_hi()
       <img src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white" alt="Spacy"/>
       <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django"/>
     </td>
-  </tr>
-  <tr>
+  </tr> -->
+  <!-- <tr>
     <td><a href="https://github.com/Transcendental-Programmer/face-recognition-attendance-app">Face Recognition Attendance</a></td>
     <td>Automated attendance tracking system using facial recognition to identify and record student or employee presence</td>
     <td>
@@ -166,7 +166,7 @@ me.say_hi()
       <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"/>
       <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask"/>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td><a href="https://github.com/Transcendental-Programmer/Anomaly-detection-in-IoT-streams">Anomaly Detection in IoT</a></td>
     <td>Real-time anomaly detection system for IoT data streams using advanced statistical methods and machine learning algorithms</td>
@@ -206,14 +206,11 @@ me.say_hi()
 </table>
 
 
-
-## 📈 Coding Activity
-
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Transcendental-Programmer">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Transcendental-Programmer&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
   </a>
-</div>
+</div> -->
 
 <div align="center">
   <h3>Connect with me on other platforms</h3>
