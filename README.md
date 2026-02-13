@@ -35,15 +35,6 @@ me.say_hi()
 
 ```
 
-## 🧠 About Me
-
-- 🎓 Currently pursuing B.Tech/M.Tech in Data Science at **IIITM Gwalior**
-- 🔭 I’m currently working on [krkn-chaos](https://github.com/krkn-chaos)
-- 🌱 Expanding my knowledge in **MLOps, Cloud Architecture, and Infrastructure**
-- 👨‍💻 Building intelligent applications with **Machine Learning & LLMs**
-- 🔍 Researching applications of **Large Language Models in real-world scenarios**
-- 🚀 Passionate about creating ML-powered solutions that solve meaningful problems
-- 📚 Always learning and adapting to new technologies and methodologies
 
 ## 📊 GitHub Stats
 
@@ -61,75 +52,6 @@ me.say_hi()
   <img src="https://github-profile-trophy.vercel.app/?username=Transcendental-Programmer&theme=tokyonight&column=7&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
 </div>
 
-
-## 🏆 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">LLM Integrated Excel Plotter</h3>
-      <div align="center">
-        <a href="https://github.com/Transcendental-Programmer/LLM-Integrated-Excel-Plotter-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transcendental-Programmer&repo=LLM-Integrated-Excel-Plotter-App&theme=tokyonight&hide_border=true" alt="LLM Integrated Excel Plotter"/>
-        </a>
-        <p>
-          <a href="https://github.com/Transcendental-Programmer/LLM-Integrated-Excel-Plotter-App">
-            <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=6A5ACD" />
-            <img src="https://img.shields.io/badge/Library-LangChain-informational?style=flat&logo=chainlink&color=6A5ACD" />
-          </a>
-        </p>
-        <p><strong>A smart Excel analysis tool that uses LLMs to generate visualizations based on natural language queries.</strong></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Healio - AI Medical Assistant</h3>
-      <div align="center">
-        <a href="https://github.com/Transcendental-Programmer/Healio-LLM-Integrated-chatbot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transcendental-Programmer&repo=Healio-LLM-Integrated-chatbot&theme=tokyonight&hide_border=true" alt="Healio LLM Integrated chatbot"/>
-        </a>
-        <p>
-          <a href="https://github.com/Transcendental-Programmer/Healio-LLM-Integrated-chatbot">
-            <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=6A5ACD" />
-            <img src="https://img.shields.io/badge/Library-PyTorch-informational?style=flat&logo=pytorch&color=6A5ACD" />
-          </a>
-        </p>
-        <p><strong>AI-powered medical assistant that provides health information and recommendations using advanced LLMs.</strong></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Recipe Adviser App</h3>
-      <div align="center">
-        <a href="https://github.com/Transcendental-Programmer/Recipe-Adviser-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transcendental-Programmer&repo=Recipe-Adviser-App&theme=tokyonight&hide_border=true" alt="Recipe Adviser App"/>
-        </a>
-        <p>
-          <a href="https://github.com/Transcendental-Programmer/Recipe-Adviser-App">
-            <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=6A5ACD" />
-            <img src="https://img.shields.io/badge/Library-spaCy-informational?style=flat&logo=spacy&color=6A5ACD" />
-          </a>
-        </p>
-        <p><strong>Intelligent recipe recommendation system that suggests meals based on available ingredients and dietary preferences.</strong></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Face Recognition Attendance</h3>
-      <div align="center">
-        <a href="https://github.com/Transcendental-Programmer/face-recognition-attendance-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transcendental-Programmer&repo=face-recognition-attendance-app&theme=tokyonight&hide_border=true" alt="Face Recognition Attendance App"/>
-        </a>
-        <p>
-          <a href="https://github.com/Transcendental-Programmer/face-recognition-attendance-app">
-            <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=6A5ACD" />
-            <img src="https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=opencv&color=6A5ACD" />
-          </a>
-        </p>
-        <p><strong>Automated attendance system using facial recognition technology for contactless attendance tracking.</strong></p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ## 🛠️ Technical Skills
 
