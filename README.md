@@ -39,7 +39,7 @@ me.say_hi()
 ##  GitHub Stats
 
 <div align="center" style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Transcendental-Programmer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max-width: 45%;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Transcendental-Programmer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max-width: 35%;" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Transcendental-Programmer&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" style="max-width: 45%;" />
 </div>
 
